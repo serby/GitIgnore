@@ -6,7 +6,7 @@ It consists of a few things that I always want to ignore, plus a few things from
 
 ## Adding to your project
 
-If you want to get this into you project you can do the following
+If you want to get this into your project you can do the following
 
      wget --no-check-certificate https://github.com/PabloSerbo/GitIgnore/raw/master/.gitignore
      git add .gitignore
