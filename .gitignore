@@ -9,6 +9,10 @@ public/css/admin/*.css
 /.settings
 /.buildpath
 
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
 # Windows
 Thumbs.db
 
